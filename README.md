@@ -8,6 +8,8 @@
 - [#  Windows系统fiddler代理抓取https包设置](https://github.com/lifeiFront/front-knowledge/issues/6)
 - [#  Android下fiddler抓取https请求指南](https://github.com/lifeiFront/front-knowledge/issues/7)
 - [#  VPN直连，导致 Fiddler 和 Charles 抓包工具无法正常进行抓包解决方案](https://github.com/lifeiFront/front-knowledge/issues/8)
+- [#  wenke-dev中webpack-middleware与vue热替换实践](https://github.com/lifeiFront/front-knowledge/issues/9)
+
 
 
 
